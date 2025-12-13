@@ -6,7 +6,7 @@ while administrators can efficiently manage admissions, members, and gym plans t
 
 ---
 
-## 🚀 Features
+## Features
 
 ### User Features
 - Online gym membership registration
