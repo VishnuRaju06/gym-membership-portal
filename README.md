@@ -1,5 +1,3 @@
-# gym-membership-portal
-A web application for gym membership registration, admission management, and admin control. Users can apply for membership online while admins manage members, plans, and admissions efficiently.
 # Gym Membership Portal
 
 A web-based application designed to simplify the gym admission and membership process. 
@@ -24,17 +22,5 @@ while administrators can efficiently manage admissions, members, and gym plans t
 - View registered users and membership status
 - Dashboard for gym operations
 
----
 
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript ( / React – if applicable )
-- **Backend:** Node.js / Flask / Django (update based on your project)
-- **Database:** MySQL / MongoDB / SQLite
-- **Authentication:** Session-based / JWT
-- **Deployment:** Localhost / Cloud-ready
-
----
-
-## 📂 Project Structure
 
